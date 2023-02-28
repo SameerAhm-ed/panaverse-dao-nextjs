@@ -37,7 +37,7 @@ const Header = () => {
             href="#"
             className="hidden p-3 px-6 pt-2 text-white bg-red-700 rounded-full baseline hover:bg-red-600 md:block"
           >
-            Get Started
+            Enroll Now
           </Link>
           {/* Hamburger Icon */}
           <button
