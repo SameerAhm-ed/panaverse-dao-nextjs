@@ -10,7 +10,7 @@ const Hero = () => {
       <div className="container flex flex-col-reverse items-center px-6 mx-auto space-y-0 md:space-y-0 md:flex-row">
         {/* Left item */}
         <div className="flex flex-col mb-32 mt-32 space-y-4 md:w-1/2">
-          <h4 className="text-teal-700 font-semibold text-md -mb-4">
+          <h4 className="text-teal-700 font-semibold text-center text-sm text-md -mb-4 md:text-left">
             Presidential Initiative for Artificial Intelligence and Computing
             (PIAIC)
           </h4>
